@@ -67,6 +67,7 @@ function createStorage(key) {
 
   return storage;
 }
+
 //Profile
 const profileSetting = createStorage("profile_setting");
 
